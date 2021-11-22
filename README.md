@@ -2,4 +2,4 @@
 
 ## Summary
 
-This repository contains all of the notes taken by Betty for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Betty](https://github.com/bettyvng) for the Lighthouse Labs Web Development Bootcamp.
